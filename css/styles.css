@@ -1,0 +1,29 @@
+h1,
+h2 {
+  text-align: center;
+  font-size: 100px;
+}
+
+a {
+  display: block;
+  text-align: center;
+  padding-top: 20px;
+  font-size: 25px;
+}
+
+img {
+  max-width: 1000px;
+  display: block;
+  margin: 0 auto;
+  padding-top: 30px;
+}
+
+body {
+  background-color: azure;
+}
+
+.phone,
+.email {
+  font-size: 18px;
+  text-align: center;
+}
